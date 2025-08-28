@@ -3,9 +3,9 @@
     <img src="https://i.imgur.com/Lv2dBHU.png" alt="Image description" style="display: inline-block; width: 80px; height: 80px;">
 </div>
 
-# JavaGPT
+# JavaGroq
 
-A Java GUI that interfaces ChatGPT API.
+A fork of JavaGPT. Since ChatGPT has made its API paid, this fork uses Groq's API instead. 
 
 
 ![](https://i.imgur.com/EbL1VRv.gif)
